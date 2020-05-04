@@ -21,7 +21,7 @@ The source of the above machine learning topics map is [this site](https://vas3k
 
 ## Web Scrapping Homework
 ----------------------------------------------------------------------------------------------------------------------------------------
-[homework](https://github.com/dilanoner/ML-Architecture/blob/master/web-scrapping-homework-skyscraper.py)
+The information on this [site](http://www.skyscrapercenter.com/buildings) was pulled with the BeautifulSoup module and a dataframe was created. Then, data visualization was done with the matplot library.[link](https://github.com/dilanoner/ML-Architecture/blob/master/web-scrapping-homework-skyscraper.py)
 
 ## Percepteron Algortihm Homework
 ----------------------------------------------------------------------------------------------------------------------------------------
