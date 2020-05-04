@@ -10,9 +10,9 @@ The source of the above machine learning topics map is [this site](https://vas3k
 
 ## Content
 
-* [Web Scrapping Homework] (##Web Scrapping Homework)
-* [Percepteron Algortihm Homework] (##Percepteron Algortihm Homework)
-* [Final Project] (##Final Project)
+* [Web Scrapping Homework](##Web Scrapping Homework)
+* [Percepteron Algortihm Homework](##Percepteron Algortihm Homework)
+* [Final Project](##Final Project)
 
 
 ## Web Scrapping Homework
