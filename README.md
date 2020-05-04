@@ -13,12 +13,12 @@ The source of the above machine learning topics map is [this site](https://vas3k
 * [Web Scrapping Homework](##Web Scrapping Homework)
 * [Percepteron Algortihm Homework](##Percepteron Algortihm Homework)
 * [Final Project](##Final Project)
-
+* [Others](##Others)
 
 ## Web Scrapping Homework
 
 ## Percepteron Algortihm Homework
 
-## 
-
 ## Final Project
+
+## Others
