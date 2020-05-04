@@ -31,8 +31,8 @@ The information on this [site](http://www.skyscrapercenter.com/buildings) was pu
 
 ## Final Project
 ----------------------------------------------------------------------------------------------------------------------------------------
-
-
+My group fellow [Ruşen](https://ruseneroglu.github.io/MLinArchitecture/) and I thought of developing a project on film scenes. After seeing [this video](https://vimeo.com/122378469?fbclid=IwAR0I8y4nC2gfigSMcmQTPYr0BKmsKN-39VZdNfv_rAXtGO_Dj8fMIG4tQ4U), 
+We decided to try the production of the last scenes according to the first scenes of the movies.
 ## Others
 ----------------------------------------------------------------------------------------------------------------------------------------
 ...Useful Links...
