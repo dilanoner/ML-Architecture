@@ -34,3 +34,9 @@ The source of the above machine learning topics map is [this site](https://vas3k
 
 ## Others
 ----------------------------------------------------------------------------------------------------------------------------------------
+...Useful Links...
+* [Gapminder](https://www.gapminder.org/)
+* [Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [DataScience](https://towardsdatascience.com/)
+* [TensorFlow](https://www.tensorflow.org/)
+* [MIT](https://deeplearning.mit.edu/)
