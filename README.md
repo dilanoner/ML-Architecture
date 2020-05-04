@@ -17,14 +17,20 @@ The source of the above machine learning topics map is [this site](https://vas3k
 * [Final Project](#Final Project)
 * [Others](#Others)
 
+
+
 ## Web Scrapping Homework
 ----------------------------------------------------------------------------------------------------------------------------------------
+[homework](https://github.com/dilanoner/ML-Architecture/blob/master/web-scrapping-homework-skyscraper.py)
+
 ## Percepteron Algortihm Homework
 ----------------------------------------------------------------------------------------------------------------------------------------
 ...Work in progress...
 
+
 ## Final Project
 ----------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## Others
 ----------------------------------------------------------------------------------------------------------------------------------------
