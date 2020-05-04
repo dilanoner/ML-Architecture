@@ -24,6 +24,8 @@ The source of the above machine learning topics map is [this site](https://vas3k
 The information on this [site](http://www.skyscrapercenter.com/buildings) was pulled with the BeautifulSoup module and a dataframe was created. Then, data visualization was done with the matplot library.
 * [link](https://github.com/dilanoner/ML-Architecture/blob/master/web-scrapping-homework-skyscraper.py)
 
+
+
 ## Percepteron Algortihm Homework
 ----------------------------------------------------------------------------------------------------------------------------------------
 ...Work in progress...
@@ -32,7 +34,9 @@ The information on this [site](http://www.skyscrapercenter.com/buildings) was pu
 ## Final Project
 ----------------------------------------------------------------------------------------------------------------------------------------
 My group fellow [Ruşen](https://ruseneroglu.github.io/MLinArchitecture/) and I thought of developing a project on film scenes. After watching [this video](https://vimeo.com/122378469?fbclid=IwAR0I8y4nC2gfigSMcmQTPYr0BKmsKN-39VZdNfv_rAXtGO_Dj8fMIG4tQ4U), 
-we decided to try the production of the last scenes according to the first scenes of the movies.
+we decided to try to produce the last scenes according to the first scenes of the movies.
+
+
 ## Others
 ----------------------------------------------------------------------------------------------------------------------------------------
 ...Useful Links...
