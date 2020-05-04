@@ -10,21 +10,21 @@ This github page is created as a part of Machine Learning Course which is instru
 
 The source of the above machine learning topics map is [this site](https://vas3k.com/blog/machine_learning/)
 
-## Content
+##Content
 ----------------------------------------------------------------------------------------------------------------------------------------
 * [Web Scrapping Homework](#Web Scrapping Homework)
 * [Percepteron Algortihm Homework](#Percepteron Algortihm Homework)
 * [Final Project](#Final Project)
 * [Others](#Others)
 
-## Web Scrapping Homework
+##Web Scrapping Homework
 ----------------------------------------------------------------------------------------------------------------------------------------
-## Percepteron Algortihm Homework
+##Percepteron Algortihm Homework
 ----------------------------------------------------------------------------------------------------------------------------------------
 ...Work in progress...
 
-## Final Project
+##Final Project
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-## Others
+##Others
 ----------------------------------------------------------------------------------------------------------------------------------------
