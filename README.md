@@ -1,6 +1,8 @@
   
 Istanbul Technical University - MBL 549E - Special Top.in Arch.Des.Comp.
 
+This github page is created as a part of Machine Learning Course which is instructed by [Özgün Balaban](https://github.com/AlpinistPanda)
+
 <br/>
 <p align="center">
   <img src="https://i.vas3k.ru/7vx.jpg">
