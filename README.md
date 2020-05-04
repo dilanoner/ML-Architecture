@@ -1,5 +1,5 @@
-Istanbul Technical University-
-MBL 549E-
+Istanbul Technical University -
+MBL 549E -
 Special Top.in Arch.Des.Comp.
 
 
@@ -8,3 +8,5 @@ Special Top.in Arch.Des.Comp.
 # Web Scrapping Homework
 
 # Percepteron Algortihm Homework
+
+# Final Project
